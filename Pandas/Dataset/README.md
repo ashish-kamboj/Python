@@ -1,1 +1,1 @@
-### Data for executing Pandas Jupyter notebooks
+### Data (Global Sales data) for executing Pandas Jupyter notebooks
