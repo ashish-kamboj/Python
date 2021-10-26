@@ -34,7 +34,6 @@ def countArithmeticMeans(a):
     else:
         return count
 
-    #return count
 
 #a = [2, 4, 6, 6, 3]
 
