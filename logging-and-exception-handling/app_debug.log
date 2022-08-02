@@ -1,0 +1,4 @@
+2022-08-02 21:37:43,153 : Arithmetic-Division : [C:\Users\ashish.kamboj\Desktop\MyAwesomeProject\logging_project_3\app.py : <module>] : INFO : [LineNo 10] : Calling module function
+2022-08-02 21:37:43,153 : Arithmetic-Division : [C:\Users\ashish.kamboj\Desktop\MyAwesomeProject\logging_project_3\math_module\arithmetic_operations.py : division] : INFO : [LineNo 17] : Executing division function
+2022-08-02 21:37:43,153 : Arithmetic-Division : [C:\Users\ashish.kamboj\Desktop\MyAwesomeProject\logging_project_3\app.py : <module>] : INFO : [LineNo 13] : Result of 44 divide by 5 is 8.8 
+2022-08-02 21:37:43,153 : Arithmetic-Division : [C:\Users\ashish.kamboj\Desktop\MyAwesomeProject\logging_project_3\app.py : <module>] : INFO : [LineNo 14] : Division Completed!
